@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in COBOL programs: exceeding the bounds of an array.  The bug.cob file showcases the error, attempting to access an array element beyond its declared size. The bugSolution.cob file provides a corrected version with appropriate index handling.
